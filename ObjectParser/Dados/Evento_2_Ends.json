@@ -1,0 +1,175 @@
+{
+  "Identificador": "e4f4f263-4fbe-4a9a-8c71-73d79b77c77e",
+  "Matricula": 7007359290,
+  "PessoaId": 0,
+  "Endereco": [
+      {
+        "Logradouro": "FRANCISCO SCALI",
+        "Complemento": "",
+        "Bairro": "QUISSAMA",
+        "Cidade": "PETRÓPOLIS",
+        "Uf": "RJ",
+        "Cep": 25615240,
+        "Pais": "BRASIL"
+      },
+      {
+        "Logradouro": "FRANCISCO SCALI",
+        "Complemento": "",
+        "Bairro": "QUISSAMA",
+        "Cidade": "PETRÓPOLIS",
+        "Uf": "RJ",
+        "Cep": 25615240,
+        "Pais": "BRASIL"
+      }
+    ],
+  "Coberturas": {
+    "CoberturaContratada": [
+      {
+        "IdExterno": 110289208150110180,
+        "InscricaoCertificado": 1102892081501,
+        "UnidadeProducao": "G06",
+        "UnidadeFiscal": "G06",
+        "ItemProdutoId": 150106,
+        "FormaContratacaoId": 1,
+        "RelacaoSeguradoId": 1,
+        "TipoRendaId": -1,
+        "Assinatura": "2022-09-01T00:00:00",
+        "Implantacao": "2022-09-01T00:00:00",
+        "FimVigencia": "",
+        "InicioVigencia": "2022-09-02T00:00:00",
+        "PrazoContribuicao": "",
+        "ParcelasPagas": 0,
+        "NumeroProposta": 110289208,
+        "FormaCobrancaId": 1,
+        "DataEvento": "2022-09-01T00:00:00Z",
+        "Proposta": {
+          "AcaoMarketing": "AM0000",
+          "ModeloProposta": "BZE",
+          "ConvenioAdesao": "AD0000",
+          "NumeroAlternativa": 1,
+          "TipoAngariacaoId": 1
+        },
+        "CodigoParceiro": 33608308000173,
+        "TipoInscricaoId": 2,
+        "TipoRegimeIRId": -1,
+        "Contribuicao": 36.67,
+        "Beneficio": 200000,
+        "CapitalSegurado": 200000,
+        "ProdutoresParticipantes": {
+          "ProdutorParticipante": {
+            "CodigoProdutor": 7194256,
+            "TipoCodigo": 0,
+            "TipoProdutor": 7,
+            "PercentualDivisao": 100
+          }
+        },
+        "ClasseRiscoId": 3103,
+        "IOF": 0.14,
+        "PrazoDecrescimo": "",
+        "PeriodicidadePagamento": 30,
+        "TempoPagamentoAntecipado": "",
+        "CapitalSeguradoOriginal": 200000
+      },
+      {
+        "IdExterno": 110289208151010020,
+        "InscricaoCertificado": 1102892081510,
+        "UnidadeProducao": "G06",
+        "UnidadeFiscal": "G06",
+        "ItemProdutoId": 151019,
+        "FormaContratacaoId": 1,
+        "RelacaoSeguradoId": 1,
+        "TipoRendaId": -1,
+        "Assinatura": "2022-09-01T00:00:00",
+        "Implantacao": "2022-09-01T00:00:00",
+        "FimVigencia": "2037-09-01T00:00:00",
+        "InicioVigencia": "2022-09-02T00:00:00",
+        "PrazoContribuicao": 15,
+        "ParcelasPagas": 0,
+        "NumeroProposta": 110289208,
+        "FormaCobrancaId": 1,
+        "DataEvento": "2022-09-01T00:00:00Z",
+        "Proposta": {
+          "AcaoMarketing": "AM0000",
+          "ModeloProposta": "BZE",
+          "ConvenioAdesao": "AD0000",
+          "NumeroAlternativa": 1,
+          "TipoAngariacaoId": 1
+        },
+        "CodigoParceiro": 33608308000173,
+        "TipoInscricaoId": 2,
+        "TipoRegimeIRId": -1,
+        "Contribuicao": 45.43,
+        "Beneficio": 200000,
+        "CapitalSegurado": 200000,
+        "ProdutoresParticipantes": {
+          "ProdutorParticipante": {
+            "CodigoProdutor": 7194256,
+            "TipoCodigo": 0,
+            "TipoProdutor": 7,
+            "PercentualDivisao": 100
+          }
+        },
+        "ClasseRiscoId": "",
+        "IOF": 0.17,
+        "PrazoDecrescimo": "",
+        "PeriodicidadePagamento": 30,
+        "TempoPagamentoAntecipado": 15,
+        "CapitalSeguradoOriginal": 200000
+      },
+      {
+        "IdExterno": 110289208222910530,
+        "InscricaoCertificado": 1102892082229,
+        "UnidadeProducao": "G06",
+        "UnidadeFiscal": "G06",
+        "ItemProdutoId": 203952,
+        "FormaContratacaoId": 1,
+        "RelacaoSeguradoId": 1,
+        "TipoRendaId": -1,
+        "Assinatura": "2022-09-01T00:00:00",
+        "Implantacao": "2022-09-01T00:00:00",
+        "FimVigencia": "2025-01-02T00:00:00",
+        "InicioVigencia": "2022-09-02T00:00:00",
+        "PrazoContribuicao": "",
+        "ParcelasPagas": 0,
+        "NumeroProposta": 110289208,
+        "FormaCobrancaId": 1,
+        "DataEvento": "2022-09-01T00:00:00Z",
+        "Proposta": {
+          "AcaoMarketing": "AM0000",
+          "ModeloProposta": "BZE",
+          "ConvenioAdesao": "AD0000",
+          "NumeroAlternativa": 1,
+          "TipoAngariacaoId": 1
+        },
+        "CodigoParceiro": 33608308000173,
+        "TipoInscricaoId": 2,
+        "TipoRegimeIRId": -1,
+        "Contribuicao": 32.69,
+        "Beneficio": 200000,
+        "CapitalSegurado": 200000,
+        "ProdutoresParticipantes": {
+          "ProdutorParticipante": {
+            "CodigoProdutor": 7194256,
+            "TipoCodigo": 0,
+            "TipoProdutor": 7,
+            "PercentualDivisao": 100
+          }
+        },
+        "ClasseRiscoId": 6677,
+        "IOF": 0.12,
+        "PrazoDecrescimo": "",
+        "PeriodicidadePagamento": 30,
+        "TempoPagamentoAntecipado": "",
+        "CapitalSeguradoOriginal": 200000
+      }
+    ]
+  },
+  "TipoDocumentoId": 1,
+  "Documento": 85212457696,
+  "Nome": "TESTE PULP FICTION",
+  "DataNascimento": "2000-12-04T00:00:00",
+  "Sexo": 77,
+  "DataExecucaoEvento": "2022-09-01T03:00:00Z",
+  "ProfissaoId": 0,
+  "IdentificadorNegocio": 110289208
+}
