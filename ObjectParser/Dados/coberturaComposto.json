@@ -1,0 +1,356 @@
+{
+  "Identificador": "5b036046-82a4-4eca-99e0-5c5f57afe66a",
+  "Matricula": "7007356848",
+  "PessoaId": "0",
+  "Endereco": {
+    "Logradouro": "TANCREDO NEVES",
+    "Complemento": null,
+    "Bairro": "CAMINHO DAS �RVORES",
+    "Cidade": "SALVADOR",
+    "Uf": "BA",
+    "Cep": "41820021",
+    "Pais": "BRASIL"
+  },
+  "Coberturas": [
+    {
+      "CoberturaContratada": [
+        {
+          "IdExterno": "110289137150110181",
+          "InscricaoCertificado": "1102891371501",
+          "UnidadeProducao": "MTZ",
+          "UnidadeFiscal": "MTZ",
+          "ItemProdutoId": "150106",
+          "FormaContratacaoId": "1",
+          "RelacaoSeguradoId": "1",
+          "TipoRendaId": "-1",
+          "Assinatura": "2022-08-24T00:00:00",
+          "Implantacao": "2022-08-24T00:00:00",
+          "FimVigencia": {
+            "@nil": "true"
+          },
+          "InicioVigencia": "2022-09-07T00:00:00",
+          "PrazoContribuicao": {
+            "@nil": "true"
+          },
+          "ParcelasPagas": "0",
+          "NumeroProposta": "110289137",
+          "FormaCobrancaId": "1",
+          "DataEvento": "2022-08-29T00:00:00Z",
+          "Proposta": {
+            "AcaoMarketing": "AM0000",
+            "ModeloProposta": "BZE",
+            "ConvenioAdesao": "AD0000",
+            "NumeroAlternativa": "2",
+            "TipoAngariacaoId": "1"
+          },
+          "CodigoParceiro": "33608308000173",
+          "TipoInscricaoId": "2",
+          "TipoRegimeIRId": "-1",
+          "Contribuicao": "52.5",
+          "Beneficio": "350000",
+          "CapitalSegurado": "350000",
+          "ProdutoresParticipantes": {
+            "ProdutorParticipante": {
+              "CodigoProdutor": "8002897",
+              "TipoCodigo": "0",
+              "TipoProdutor": "8",
+              "PercentualDivisao": "100.0"
+            }
+          },
+          "ClasseRiscoId": "3103",
+          "IOF": "0.2",
+          "PrazoDecrescimo": {
+            "@nil": "true"
+          },
+          "PeriodicidadePagamento": "30",
+          "TempoPagamentoAntecipado": {
+            "@nil": "true"
+          },
+          "CapitalSeguradoOriginal": "350000"
+        },
+        {
+          "IdExterno": "110289137202710111",
+          "InscricaoCertificado": "1102891372027",
+          "UnidadeProducao": "MTZ",
+          "UnidadeFiscal": "MTZ",
+          "ItemProdutoId": "203058",
+          "FormaContratacaoId": "1",
+          "RelacaoSeguradoId": "1",
+          "TipoRendaId": "-1",
+          "Assinatura": "2022-08-24T00:00:00",
+          "Implantacao": "2022-08-24T00:00:00",
+          "FimVigencia": "2027-09-06T00:00:00",
+          "InicioVigencia": "2022-09-07T00:00:00",
+          "PrazoContribuicao": {
+            "@nil": "true"
+          },
+          "ParcelasPagas": "0",
+          "NumeroProposta": "110289137",
+          "FormaCobrancaId": "1",
+          "DataEvento": "2022-08-29T00:00:00Z",
+          "Proposta": {
+            "AcaoMarketing": "AM0000",
+            "ModeloProposta": "BZE",
+            "ConvenioAdesao": "AD0000",
+            "NumeroAlternativa": "2",
+            "TipoAngariacaoId": "1"
+          },
+          "CodigoParceiro": "33608308000173",
+          "TipoInscricaoId": "2",
+          "TipoRegimeIRId": "-1",
+          "Contribuicao": "1.98",
+          "Beneficio": "7000",
+          "CapitalSegurado": "7000",
+          "ProdutoresParticipantes": {
+            "ProdutorParticipante": {
+              "CodigoProdutor": "8002897",
+              "TipoCodigo": "0",
+              "TipoProdutor": "8",
+              "PercentualDivisao": "100.0"
+            }
+          },
+          "ClasseRiscoId": "3159",
+          "IOF": "0.01",
+          "PrazoDecrescimo": {
+            "@nil": "true"
+          },
+          "PeriodicidadePagamento": "30",
+          "TempoPagamentoAntecipado": {
+            "@nil": "true"
+          },
+          "CapitalSeguradoOriginal": "7000"
+        },
+        {
+          "IdExterno": "110289137202719901",
+          "InscricaoCertificado": "1102891372027",
+          "UnidadeProducao": "MTZ",
+          "UnidadeFiscal": "MTZ",
+          "ItemProdutoId": "203059",
+          "FormaContratacaoId": "4",
+          "RelacaoSeguradoId": "1",
+          "TipoRendaId": "-1",
+          "Assinatura": "2022-08-24T00:00:00",
+          "Implantacao": "2022-08-24T00:00:00",
+          "FimVigencia": {
+            "@nil": "true"
+          },
+          "InicioVigencia": "2022-08-24T00:00:00",
+          "PrazoContribuicao": {
+            "@nil": "true"
+          },
+          "ParcelasPagas": "0",
+          "NumeroProposta": "110289137",
+          "FormaCobrancaId": "1",
+          "DataEvento": "2022-08-29T00:00:00Z",
+          "Proposta": {
+            "AcaoMarketing": "AM0000",
+            "ModeloProposta": "BZE",
+            "ConvenioAdesao": "AD0000",
+            "NumeroAlternativa": "2",
+            "TipoAngariacaoId": "1"
+          },
+          "CodigoParceiro": "33608308000173",
+          "TipoInscricaoId": "2",
+          "TipoRegimeIRId": "-1",
+          "Contribuicao": "0",
+          "Beneficio": "0",
+          "CapitalSegurado": "0",
+          "ProdutoresParticipantes": {
+            "ProdutorParticipante": {
+              "CodigoProdutor": "8002897",
+              "TipoCodigo": "0",
+              "TipoProdutor": "8",
+              "PercentualDivisao": "100.0"
+            }
+          },
+          "ClasseRiscoId": {
+            "@nil": "true"
+          },
+          "IOF": "0",
+          "PrazoDecrescimo": {
+            "@nil": "true"
+          },
+          "PeriodicidadePagamento": "30",
+          "TempoPagamentoAntecipado": {
+            "@nil": "true"
+          },
+          "CapitalSeguradoOriginal": "0"
+        }
+      ]
+    },
+    {
+      "CoberturaContratada": [
+        {
+          "IdExterno": "110289137150110181",
+          "InscricaoCertificado": "1102891371501",
+          "UnidadeProducao": "MTZ",
+          "UnidadeFiscal": "MTZ",
+          "ItemProdutoId": "150106",
+          "FormaContratacaoId": "1",
+          "RelacaoSeguradoId": "1",
+          "TipoRendaId": "-1",
+          "Assinatura": "2022-08-24T00:00:00",
+          "Implantacao": "2022-08-24T00:00:00",
+          "FimVigencia": {
+            "@nil": "true"
+          },
+          "InicioVigencia": "2022-09-07T00:00:00",
+          "PrazoContribuicao": {
+            "@nil": "true"
+          },
+          "ParcelasPagas": "0",
+          "NumeroProposta": "110289137",
+          "FormaCobrancaId": "1",
+          "DataEvento": "2022-08-29T00:00:00Z",
+          "Proposta": {
+            "AcaoMarketing": "AM0000",
+            "ModeloProposta": "BZE",
+            "ConvenioAdesao": "AD0000",
+            "NumeroAlternativa": "2",
+            "TipoAngariacaoId": "1"
+          },
+          "CodigoParceiro": "33608308000173",
+          "TipoInscricaoId": "2",
+          "TipoRegimeIRId": "-1",
+          "Contribuicao": "52.5",
+          "Beneficio": "350000",
+          "CapitalSegurado": "350000",
+          "ProdutoresParticipantes": {
+            "ProdutorParticipante": {
+              "CodigoProdutor": "8002897",
+              "TipoCodigo": "0",
+              "TipoProdutor": "8",
+              "PercentualDivisao": "100.0"
+            }
+          },
+          "ClasseRiscoId": "3103",
+          "IOF": "0.2",
+          "PrazoDecrescimo": {
+            "@nil": "true"
+          },
+          "PeriodicidadePagamento": "30",
+          "TempoPagamentoAntecipado": {
+            "@nil": "true"
+          },
+          "CapitalSeguradoOriginal": "350000"
+        },
+        {
+          "IdExterno": "110289137202710111",
+          "InscricaoCertificado": "1102891372027",
+          "UnidadeProducao": "MTZ",
+          "UnidadeFiscal": "MTZ",
+          "ItemProdutoId": "203058",
+          "FormaContratacaoId": "1",
+          "RelacaoSeguradoId": "1",
+          "TipoRendaId": "-1",
+          "Assinatura": "2022-08-24T00:00:00",
+          "Implantacao": "2022-08-24T00:00:00",
+          "FimVigencia": "2027-09-06T00:00:00",
+          "InicioVigencia": "2022-09-07T00:00:00",
+          "PrazoContribuicao": {
+            "@nil": "true"
+          },
+          "ParcelasPagas": "0",
+          "NumeroProposta": "110289137",
+          "FormaCobrancaId": "1",
+          "DataEvento": "2022-08-29T00:00:00Z",
+          "Proposta": {
+            "AcaoMarketing": "AM0000",
+            "ModeloProposta": "BZE",
+            "ConvenioAdesao": "AD0000",
+            "NumeroAlternativa": "2",
+            "TipoAngariacaoId": "1"
+          },
+          "CodigoParceiro": "33608308000173",
+          "TipoInscricaoId": "2",
+          "TipoRegimeIRId": "-1",
+          "Contribuicao": "1.98",
+          "Beneficio": "7000",
+          "CapitalSegurado": "7000",
+          "ProdutoresParticipantes": {
+            "ProdutorParticipante": {
+              "CodigoProdutor": "8002897",
+              "TipoCodigo": "0",
+              "TipoProdutor": "8",
+              "PercentualDivisao": "100.0"
+            }
+          },
+          "ClasseRiscoId": "3159",
+          "IOF": "0.01",
+          "PrazoDecrescimo": {
+            "@nil": "true"
+          },
+          "PeriodicidadePagamento": "30",
+          "TempoPagamentoAntecipado": {
+            "@nil": "true"
+          },
+          "CapitalSeguradoOriginal": "7000"
+        },
+        {
+          "IdExterno": "110289137202719901",
+          "InscricaoCertificado": "1102891372027",
+          "UnidadeProducao": "MTZ",
+          "UnidadeFiscal": "MTZ",
+          "ItemProdutoId": "203059",
+          "FormaContratacaoId": "4",
+          "RelacaoSeguradoId": "1",
+          "TipoRendaId": "-1",
+          "Assinatura": "2022-08-24T00:00:00",
+          "Implantacao": "2022-08-24T00:00:00",
+          "FimVigencia": {
+            "@nil": "true"
+          },
+          "InicioVigencia": "2022-08-24T00:00:00",
+          "PrazoContribuicao": {
+            "@nil": "true"
+          },
+          "ParcelasPagas": "0",
+          "NumeroProposta": "110289137",
+          "FormaCobrancaId": "1",
+          "DataEvento": "2022-08-29T00:00:00Z",
+          "Proposta": {
+            "AcaoMarketing": "AM0000",
+            "ModeloProposta": "BZE",
+            "ConvenioAdesao": "AD0000",
+            "NumeroAlternativa": "2",
+            "TipoAngariacaoId": "1"
+          },
+          "CodigoParceiro": "33608308000173",
+          "TipoInscricaoId": "2",
+          "TipoRegimeIRId": "-1",
+          "Contribuicao": "0",
+          "Beneficio": "0",
+          "CapitalSegurado": "0",
+          "ProdutoresParticipantes": {
+            "ProdutorParticipante": {
+              "CodigoProdutor": "8002897",
+              "TipoCodigo": "0",
+              "TipoProdutor": "8",
+              "PercentualDivisao": "100.0"
+            }
+          },
+          "ClasseRiscoId": {
+            "@nil": "true"
+          },
+          "IOF": "0",
+          "PrazoDecrescimo": {
+            "@nil": "true"
+          },
+          "PeriodicidadePagamento": "30",
+          "TempoPagamentoAntecipado": {
+            "@nil": "true"
+          },
+          "CapitalSeguradoOriginal": "0"
+        }
+      ]
+    }
+  ],
+  "TipoDocumentoId": "1",
+  "Documento": "59843024036",
+  "Nome": "PALHETADA ALTERNADA",
+  "DataNascimento": "1987-01-21T00:00:00",
+  "Sexo": "77",
+  "DataExecucaoEvento": "2022-08-29T03:00:00Z",
+  "ProfissaoId": "0",
+  "IdentificadorNegocio": "110289137"
+}
